@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(4, 88, 60);
+}
+fieldset{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    background-color: rgb(80, 156, 96);
+    padding: 15px;
+    border-radius: 10px;
+    width: 16%;
+}
+.input{
+    position: absolute;
+    background: none;
+    border-bottom: 1px solid;
+    outline: none;
+    width: 150px;
+    left: 80px;
+
+}    
+.LabelInput{
+    position: relative;
+    color: aliceblue;
+}    
+.data{
+    color: aliceblue;
+    position: absolute;
+    border-radius: 5px;
+    background-color: rgb(80, 156, 96);
+    font-size: 15px;
+    padding: 5px;
+    left: 70px;
+    top: 116px;
+}
+#data{
+    color: aliceblue;
+}
+form h2{
+    color: aliceblue;
+    position: relative;
+    padding-bottom: 10px;
+    left: 40px;
+    letter-spacing: 2px;
+}
+.genero{
+    color: aliceblue;
+}
+.submit{
+    position: relative;
+    margin: 0px 0px 7px 2px;
+    padding: 5px;
+    top: 10px;
+    left: 78px;
+    border: 2px solid;
+    border-radius: 15px;
+    background-color: rgb(80, 156, 96);
+    color: aliceblue;
+
+    
+}
